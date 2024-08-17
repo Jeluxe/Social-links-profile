@@ -95,11 +95,11 @@ main {
 }
 
 .user {
-  --spacing: 1.5rem;
-  --content-spacing: 2rem;
+  --spacing: 2rem;
+  --content-spacing: 1.5rem;
 
   display: grid;
-  gap: var(--content-spacing);
+  gap: var(--spacing);
   padding: var(--spacing);
   background: var(--clr-neutral-800);
   border-radius: 1rem;
@@ -126,7 +126,7 @@ main {
 }
 
 .user .user-social-info .user-bio {
-  margin-bottom: var(--spacing);
+  margin-bottom: var(--content-spacing);
 }
 
 .user .user-social-info .link-group {
