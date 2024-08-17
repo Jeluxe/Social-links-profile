@@ -28,8 +28,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Social link profile](https://jeluxe.github.io/Social-links-profile/)
+- Solution URL: [Social link profile in Frontend Mentor](https://www.frontendmentor.io/solutions/responsive-social-links-profile-bVkHPiu9vQ)
+- Live Site URL: [Social link profile in Github Pages](https://jeluxe.github.io/Social-links-profile/)
 
 ## My process
 
